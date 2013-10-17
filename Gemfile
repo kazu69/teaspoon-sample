@@ -46,5 +46,6 @@ end
 
 group :development, :test do
   gem "mocha", "~> 0.14.0"
+  gem "selenium-webdriver"
   gem "teaspoon"
 end
