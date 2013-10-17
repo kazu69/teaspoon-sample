@@ -13,5 +13,6 @@
 #= require jquery
 #= require jquery_ujs
 #= require turbolinks
-#= require backbone/backbone
+#= require lodash/dist/lodash.min
+#= require backbone/backbone-min
 #= require_tree .
