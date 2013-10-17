@@ -43,3 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+group :development, :test do
+  gem "mocha", "~> 0.14.0"
+  gem "teaspoon"
+end
