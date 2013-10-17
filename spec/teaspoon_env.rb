@@ -28,6 +28,9 @@ Teaspoon.setup do |config|
   #config.suppress_log        = false # suppress logs coming from console[log/error/debug]
   config.color               = true
 
+  # Driver Options
+  # config.driver_cli_options  = '--ssl-protocol=any'
+
   # Coverage (requires istanbul -- https://github.com/gotwarlost/istanbul)
   config.coverage            = true
   config.coverage_reports    = "text,html,cobertura"
