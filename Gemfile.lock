@@ -148,6 +148,7 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   mocha (~> 0.14.0)
+  phantomjs
   rails (= 4.0.0)
   sass-rails (~> 4.0.0)
   sdoc
