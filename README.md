@@ -8,5 +8,6 @@ Sample of JavaScript using Teapoon in Backbone and Rails
 
 ##### use
  * bundler
+ * npm
  * bower
  * phantomJS
