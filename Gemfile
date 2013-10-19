@@ -50,3 +50,8 @@ group :development, :test do
   gem "phantomjs"
   gem "teaspoon"
 end
+
+group :assets do
+  gem "guard-teaspoon"
+  gem "rb-fsevent" # used by guard
+end
